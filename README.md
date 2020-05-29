@@ -1,4 +1,4 @@
-# Fusion-CNN-multi-CNN-for-feature-extraction-and-psosvm-for-fault-diagnosis-
+# Fusion-CNN-multi-CNN-for-feature-extraction-and-svm-for-fault-diagnosis-
 python代码，西储大学滚动轴承故障诊断，可以参考我的博客
 https://blog.csdn.net/qq_41043389/article/details/103870271
 1.利用融合CNN进行特征提取
